@@ -287,7 +287,7 @@ img{
     margin-bottom: 20px;
     display: flex;
     align-items: center;
-    justify-content: right;
+    justify-content: left;
 }
 
 .galery-image:nth-of-type(odd) h3{
@@ -512,7 +512,7 @@ img{
     justify-content: center;
     align-items: center;
     background-image: url('../images/pattern.png'),
-    linear-gradient(to right, #e28484, #e28484);
+                      linear-gradient(to right, #e28484, #e28484);
 }
 
 .contact-main-centered{
